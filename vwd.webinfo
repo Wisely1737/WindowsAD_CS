@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.activeds" ID="{97D25DB0-0363-11CF-ABC4-02608C9E7553}\1.0\0"/>
+  </comReferences>
+
+  <iisExpressSettings windowsAuthentication="disabled" anonymousAuthentication="enabled" useClassicPipelineMode="true"/>
+</VisualWebDeveloper>
